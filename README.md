@@ -8,8 +8,8 @@ This tutorial outlines how to create users in Powershell and the basics of Group
 
 <h2>Post-Install Configuration Objectives</h2>
 
-- Set Up Agents
-- Set Up Permissions
+- Setting Password Reset Rules
+- Purposefully Getting Locked out and then resetting account
 - Set Up Rules
 - Item 4
 - Item 5
@@ -22,6 +22,6 @@ This tutorial outlines how to create users in Powershell and the basics of Group
 *Tip* <b>Right click to open in another tab otherwise it takes you to YouTube.</b> *Tip*
 
 
-<a href="https://www.youtube.com/watch?v=Wsj2O3zXPQg&t=295s">   <img width="961" alt="Screen Shot 2025-05-19 at 1 43 50 AM" src="https://github.com/user-attachments/assets/16112bb5-dd7a-44f7-acac-c3bbb31378fe" />
-   
+<a href="https://www.youtube.com/watch?v=74coq2VAsyw">   <img width="961" alt="Screen Shot 2025-05-19 at 2 12 23 AM" src="https://github.com/user-attachments/assets/27d597e6-f8e4-4b21-ae00-ec17198f6f7f" />
+
  </a>
