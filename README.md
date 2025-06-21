@@ -6,13 +6,6 @@
 This tutorial outlines how to create users in Powershell and the basics of Group Policy.<br />
 
 
-<h2>Post-Install Configuration Objectives</h2>
-
-- Setting Password Reset Rules
-- Purposefully Getting Locked out and then resetting account
-- Set Up Rules
-- Item 4
-- Item 5
 
 <h2>Configuration Steps</h2>
 
