@@ -7,7 +7,6 @@ This tutorial outlines how to create users in Powershell and the basics of Group
 
 
 
-<h2>Configuration Steps</h2>
 
 
 ![image](https://github.com/user-attachments/assets/f8c23556-c8e7-402c-9739-1de83c8ad9aa)  
